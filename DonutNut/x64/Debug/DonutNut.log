@@ -1,0 +1,17 @@
+﻿  main.cpp
+E:\Projects\C++\DonutNut\DonutNut\main.cpp(18,36): warning C4305: '+=': truncation from 'double' to 'float'
+E:\Projects\C++\DonutNut\DonutNut\main.cpp(19,40): warning C4305: '+=': truncation from 'double' to 'float'
+E:\Projects\C++\DonutNut\DonutNut\main.cpp(20,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Projects\C++\DonutNut\DonutNut\main.cpp(21,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Projects\C++\DonutNut\DonutNut\main.cpp(22,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Projects\C++\DonutNut\DonutNut\main.cpp(23,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Projects\C++\DonutNut\DonutNut\main.cpp(24,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Projects\C++\DonutNut\DonutNut\main.cpp(27,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Projects\C++\DonutNut\DonutNut\main.cpp(28,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Projects\C++\DonutNut\DonutNut\main.cpp(29,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Projects\C++\DonutNut\DonutNut\main.cpp(31,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Projects\C++\DonutNut\DonutNut\main.cpp(32,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Projects\C++\DonutNut\DonutNut\main.cpp(34,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Projects\C++\DonutNut\DonutNut\main.cpp(44,18): warning C4305: '+=': truncation from 'double' to 'float'
+E:\Projects\C++\DonutNut\DonutNut\main.cpp(45,18): warning C4305: '+=': truncation from 'double' to 'float'
+  DonutNut.vcxproj -> E:\Projects\C++\DonutNut\x64\Debug\DonutNut.exe
